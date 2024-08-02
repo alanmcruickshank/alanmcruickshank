@@ -1,7 +1,9 @@
 ### Alan Cruickshank (He/Him) 👋
 
-- 🐶 Insights Director @ [tails.com](https://tails.com/careers)
+
 - 📜 Author & Maintainer of [SQLFluff](https://github.com/sqlfluff/sqlfluff)
+- 🚀 Director of [A14K Ltd](https://www.a14k.co.uk), Data Services for SMEs
+- 🐶 ex Insights Director @ [tails.com](https://tails.com/careers)
 - ✒️ Blogging @ [designingoverload.com](https://designingoverload.com)
 - ⚙️ Printing on [thingiverse](https://www.thingiverse.com/alanmcruickshank/designs)
 - 🗣️ Mentor and Coach to small business data leaders.
